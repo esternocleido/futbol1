@@ -1,406 +1,543 @@
-{
- "name": "Football Station",
- "author": "lll",
- "info": "Back Monkey",
- "image": "https://www.aisplay24hd.com/wp-content/uploads/2021/09/cropped-logo_m_md.png",
- "stations": [
-  {
-   "name": "TPF 1",
-   "info": "aisplay24hd",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tpf1_480/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
-{
-   "name": "TPF 1 ",
-   "info": "livescorethai",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
-   "url": "https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
  {
-   "name": "TPF 1",
-   "info": "24xball",
-   image:"https://overseer.blackboxsys.net/images/png/epl-1.png",
-   "url": "https://cdn3.googlecdnforstreaming.live:446/24xball/tpf1_480/playlist.m3u8",
-   "referer": "https://24xball.co/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-    {
-      "name": "TPF 1",
-"info": "dooball2you",
-      "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
-    {
-      "name": "TPF 1",
-"info": "LAOTV",
-      "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
-      "url": "https://ctrl.laotv.la/live/TSport1/index.m3u8",
-      "referer": ""
-    },
- 
- {
-   "name": "TPF 2",
-   "info": "livescorethai",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
-   "url": "https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
+"name": "SIKO FOOTBALL",
+"author": "PONLAWAT",
+"image": "https://img.inwiptv.net/postor/20240419200458MUTV.jpg",
+"stations": [
 {
-   "name": "TPF 2",
-   "info": "24xball",
-   image:"https://overseer.blackboxsys.net/images/png/epl-2.png",
-   "url": "https://cdn3.googlecdnforstreaming.live:446/24xball/tpf2/playlist.m3u8",
-   "referer": "https://24xball.co/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-    {
-      "name": "TPF 2",
- "info": "dooball2you",
-      "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
-    {
-      "name": "TPF 2",
- "info": "LAOTV",
-      "image": "https://overseer.blackboxsys.net/images/png/epl-2.png",
-      "url": "https://ctrl.laotv.la/live/TSport2/index.m3u8",
-      "referer": ""
-    },
- 
-  {
-   "name": "TPF 3",
-   "info": "aisplay24hd",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-3.png",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tpf3/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": "True Premier Football 1",
+      "image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+      "url": "https://dookeela.live/live-tv/epl1_sd",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-   "name": "TPF 3",
-   "info": "livescorethai",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-3.png",
-   "url": "https://streaming.livescorethai.net/iptv/bsb-epl3.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
-     {
-      "name": "TPF 3",
- "info": "dooball2you",
-      "image": "https://overseer.blackboxsys.net/images/png/epl-3.png",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
-
-
+"name": "True Premier Football 2",
+      "image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+      "url": "https://dookeela.live/live-tv/epl2",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-   "name": "TPF 4",
-   "info": "aisplay24hd",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-4.png",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tpf4/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
+"name": "True Premier Football 3",
+      "image": "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+      "url": "https://dookeela.live/live-tv/epl3",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-   "name": "TPF 4",
-   "info": "livescorethai",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-4.png",
-   "url": "https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+"name": "True Premier Football 4",
+      "image": "https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+      "url": "https://dookeela.live/live-tv/epl4",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 
+},
 {
-      "name": "TPF 4",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/tpf4.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
- 
- {
-   "name": "TPF 5",
-   "info": "aisplay24hd",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-5.png",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tpf4/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": "True Premier Football 5",
+      "image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+      "url": "https://dookeela.live/live-tv/epl5",
+    "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-   "name": "TPF 5",
-   "info": "livescorethai",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-5.png",
-   "url": "https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-    {
-      "name": "TPF 5",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/tpf5.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
- 
+"name": "True Ball Thai 1",
+"image": "https://dookeela.live/uploads/1691371195.png",
+"url": "https://cdn1.googlecdn.live/dooballx/trueballthai1/chunks.m3u8",
+"referer":"https://dooballx.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
 {
-   "name": "beIN Sport 1",
-   "info": "aisplay24hd",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
-   "url": "https://cdn1.aws-live-streaming.com/ais/bein1/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": "True Ball Thai 2",
+"image": "https://dookeela.live/uploads/1691444816.png",
+"url": "https://cdn1.googlecdn.live/dooballx/trueballthai2/chunks.m3u8",
+"referer":"https://dooballx.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
 {
-   "name": "beIN Sport 1",
-   "info": "livescorethai",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
-   "url": "https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
-     {
-      "name": "beIN Sport 1",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
-    {
-      "name": "beIN Sport 1",
- "info": "LAOTV",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg",
-      "url": "https://ctrl.laotv.la/live/Bsport1/index.m3u8",
-      "referer": ""
-    },
- 
-  {
-   "name": "beIN Sport 3",
-   "info": "aisplay24hd",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-bein3.png",
-   "url": "https://cdn1.aws-live-streaming.com/ais/bein3/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": "True Ball Thai 3",
+"image": "https://dookeela.live/uploads/1691444826.png",
+"url": "https://cdn1.googlecdn.live/dooballx/trueballthai3/chunks.m3u8",
+"referer":"https://dooballx.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
 {
-   "name": "beIN Sport 3",
-   "info": "livescorethai",
-   "image": "https://overseer.blackboxsys.net/images/png/epl-bein3.png",
-   "url": "https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": "True Ball Thai 4",
+"image": "https://dookeela.live/uploads/1707502708.png",
+"url": "https://cdn1.googlecdn.live/dooballx/trueballthai4/chunks.m3u8",
+"referer":"https://dooballx.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
 {
-      "name": "beIN Sport 3",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
+"name": "BEIN SPORTS 1 TH",
+"image": "https://www.dropbox.com/scl/fi/5pvr19c7bokoy2vzu1deh/bein-1th.png?rlkey=ekwohtc95kdb83dt8125hqca0&dl=1",
+"url": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
 {
-      "name": "beIN Sport 3",
- "info": "LAOTV",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg",
-      "url": "https://ctrl.laotv.la/live/Bsport2/index.m3u8",
-      "referer": ""
-    },
-
-  {
-   "name": "ทรูสปอร์ต 1",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tsp1/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+"name": "BEIN SPORTS 2 TH",
+"image": "https://www.dropbox.com/scl/fi/iuakic5k9cqtsdlwxudgz/bein-2th.png?rlkey=49ch658z9w0mhq9vl7tta5mov&dl=1",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/bein2/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
 {
-   "name": "ทรูสปอร์ต 1",
-   "info": "livescorethai",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",
-   "url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-    {
-      "name": "ทรูสปอร์ต 1",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport1.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
-   
-  {
-   "name": "ทรูสปอร์ต 2",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tsp2/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+"name": "BEIN SPORTS 3 TH",
+"image": "https://www.dropbox.com/scl/fi/6kj65m7pmobpircofyv7d/bein-3th.png?rlkey=b6b425zfntnvpa9mavil38wsy&dl=1",
+"url": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "BEIN SPORTS 4 TH",
+"image": "https://www.dropbox.com/scl/fi/42oilrndsbtclqi0i8bo4/bein-4th.png?rlkey=116uj2w48ky07eaa393jk9iws&dl=1",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/bein4/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "BEIN SPORTS 5 TH",
+"image": "https://www.dropbox.com/scl/fi/e6a4r23wt9tzf1o8rqkjn/bein-5th.png?rlkey=yoc3u8tlth6potcykjjfnf2zq&dl=1",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/bein5/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "BEIN SPORTS 6 TH",
+"image": "https://www.dropbox.com/scl/fi/hv5jbgrasp98u56bb1gcc/bein-6th.png?rlkey=0lv4vhkgwg6jifxe533nvgdgj&dl=1",
+"url": "https://cdn1.googlecdn.live/dooballx/bein6/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN SPORTS 7 TH",
+"image": "https://www.dropbox.com/scl/fi/ttqvlafjsnn4lqtypf81b/bein-7th.png?rlkey=fwcojc73nuwaysqjs5dk45p5b&dl=1",
+"url": "https://cdn1.googlecdn.live/dooballx/bein7/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Truesports HD1",
+"image": "https://dl.dropbox.com/scl/fi/8dcmdw3vxv1ssmt6c4xtv/TS1-1.png?rlkey=qjk45cr9i6axvluc2aztsfbdv&dl=0",
+"url": "https://dookeela.live/live-tv/tsp1",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "TrueSports HD2",
+"image": "https://dl.dropbox.com/scl/fi/8acgrdz4akd0n4mteuu1y/TS2-1.png?rlkey=s22veuvgeyvpa3ic5isgy8cv4&dl=0",
+"url": "https://dookeela.live/live-tv/tsp2",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "TrueSports HD3",
+"image": "https://dl.dropbox.com/scl/fi/84dt0v5n0f6ktarsgw1tb/TS3-1.png?rlkey=ykd2fy9idyeowomoyvjxsmsa4&dl=0",
+"url": "https://dookeela.live/live-tv/tsp3",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "TrueSpots HD4",
+"image": "https://dl.dropbox.com/scl/fi/gpt4ya7s77ntm0dfx0i4j/TS4-1.png?rlkey=jl04x5xpdcurkzdkw3zemos8g&dl=0",
+"url": "https://dookeela.live/live-tv/tsp4",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "TrueSports HD5",
+"image": "https://dl.dropbox.com/scl/fi/fxlq8o32vhopsbzl9ntki/TS5-1.png?rlkey=5oyn9sas3i1uv5hxg641y7c9c&dl=0",
+"url": "https://dookeela.live/live-tv/tsp5",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "TrueSports HD7",
+"image": "https://dl.dropbox.com/scl/fi/xxlztdvf0h6qtf3esy6hh/TS7-1.png?rlkey=akl54tw38tm6uiatp2s52ovox&dl=0",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/tsp7/playlist.m3u8",
+"referer": "https://dookeela.live/live-tv/tsp7",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
 
 {
-   "name": "ทรูสปอร์ต 2",
-   "info": "livescorethai",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",
-   "url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+"name": "SIAMSPORT 1",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/siamsport1/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "SIAMSPORT 2",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/siamsport2/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "SIAMSPORT 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/siamsport3/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "SIAMSPORT 4",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/siamsport4/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "SPORTV",
+"image": "https://moviektu.com/news/logotv/sport/hd-spotv.png",
+"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/"
+},
+{
+"name": "SPORTV 2",
+"image": "https://moviektu.com/news/logotv/sport/hd-spotv2.png",
+"url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/"
+
+},
+{
+"name": " Sky Sports Mix | UK",
+"image": "https://dookeela.live//uploads/1712889285.png",
+"url": "https://dookeela.live/live-tv/skysportsmix",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Sky Sports News | UK",
+"image": "https://dookeela.live//uploads/1715648168.png",
+"url": "https://dookeela.live/live-tv/skysportsnews",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Sky Sports Premier League UK",
+"image": "https://dookeela.live//uploads/1696317833.png",
+"url": "https://dookeela.live/live-tv/skysportepl",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Sky Sports Football UK",
+"image": "https://dookeela.live//uploads/1664576894.png",
+"url": "https://dookeela.live/live-tv/skysportfootball",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
 
 {
-      "name": "ทรูสปอร์ต 2",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport2.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8",
-      "referer": "https://dooball2you.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-    },
+"name": "EUROSPORT 1",
+"image": "https://moviektu.com/news/logotv/sport/uk-eurosport.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/eurosport1es/playlist.m3u8",
+"referer": "https://dookeela.live/",
 
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
 {
-      "name": "ทรูสปอร์ต 2",
- "info": "dookeela",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport2.jpg",
-      "url": "https://dkl-c33es.cdn.akamaiz.com/dookeela/tsp2/playlist.m3u8",
-      "referer": "https://dookeela.live/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-    },
-   
-  {
-   "name": "ทรูสปอร์ต 3",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tsp3/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+"name": "EUROSPORT 2",
+"image": "https://moviektu.com/news/logotv/sport/uk-eurosport2.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/eurosport2es/playlist.m3u8",
+"referer": "https://dookeela.live/",
 
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
 {
-   "name": "ทรูสปอร์ต 3",
-   "info": "livescorethai",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",
-   "url": "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": " SSC EXTRA 1",
+"image": "https://dookeela.live//uploads/1691948780.png",
+"url": "https://dookeela.live/live-tv/sscextra1",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
 {
-      "name": "ทรูสปอร์ต 3",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport3.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
-   
-    {
-   "name": "ทรูสปอร์ต 4",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tsp4/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-  {
-   "name": "ทรูสปอร์ต 5",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tsp5/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-    {
-      "name": "ทรูสปอร์ต 5",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport5.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
- 
-    {
-   "name": "ทรูสปอร์ต 7",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/tsp7/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-    {
-      "name": "ทรูสปอร์ต 7",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/truesport7.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
- 
-  {
-   "name": "บอลไทย 1",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/trueballthai1/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-    {
-      "name": "บอลไทย 1",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/ballthai1.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
- 
-    {
-   "name": "บอลไทย 2",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/trueballthai2/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
+"name": " SSC EXTRA 2",
+"image": "https://dookeela.live//uploads/1692334268.png",
+"url": "https://dookeela.live/live-tv/sscextra2",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
 {
-      "name": "บอลไทย 2",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/ballthai2.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay2/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
- 
-      {
-   "name": "บอลไทย 3",
-   "info": "aisplay24hd",
-   "image": "https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/trueballthai3/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": " SSC EXTRA 3",
+"image": "https://dookeela.live//uploads/1716487143.png",
+"url": "https://dookeela.live/live-tv/sscextra3",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
 {
-      "name": "บอลไทย 3",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/ballthai3.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },
- 
-   {
-   "name": "PPTV",
-   "info": "AIS",
-   image:"https://cms.dmpcdn.com/livetv/2023/08/28/012eed00-458a-11ee-bd2b-6734a2d9e428_webp_original.webp",
-   "url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd",
-   "referer": "https://livescorethai.net/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-
-  {
-   "name": "PPTV",
-   "info": "aisplay24hd",
-   image:"https://cms.dmpcdn.com/livetv/2023/08/28/012eed00-458a-11ee-bd2b-6734a2d9e428_webp_original.webp",
-   "url": "https://cdn1.aws-live-streaming.com/ais/pptv/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": "Astro SuperSport 1",
+"image": "https://moviektu.com/news/logotv/sportus/my-asp1hd.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/astro1/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
 {
-   "name": "PPTV",
-   "info": "24xball",
-   image:"https://cms.dmpcdn.com/livetv/2023/08/28/012eed00-458a-11ee-bd2b-6734a2d9e428_webp_original.webp",
-   "url": "https://cdn3.googlecdnforstreaming.live:446/24xball/pptv/playlist.m3u8",
-   "referer": "https://24xball.co/","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
-    {
-      "name": "PPTV",
- "info": "dooball2you",
-      "image": "https://dooball2you.com/wp-content/uploads/2023/09/pptv.jpg",
-      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/pptv/playlist.m3u8",
-      "referer": "https://dooball2you.com/"
-    },  
-
- {
-   "name": "CH3",
-   "info": "AIS",
-   image:"https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",
-   "url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/DASH/B0003.mpd",
-   "referer": "https://redirector.ais-vidnt.com","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+"name": "Astro SuperSport 2",
+"image": "https://moviektu.com/news/logotv/sportus/my-asp2hd.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/astro2/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
 {
-   "name": "CH7",
-   "info": "AIS",
-   image:"https://freetvdd.com/wp-content/uploads/2019/12/7-channel.png",
-   "url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/DASH/V0018.mpd",
-   "referer": "https://redirector.ais-vidnt.com","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
+"name": "Astro SuperSport 3",
+"image": "https://moviektu.com/news/logotv/sportus/my-asp3hd.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/astro3/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
 {
-   "name": "TSports7",
-   "info": "AIS",
-   image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-   "url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0129/DASH/V0129.mpd",
-   "referer": "https://redirector.ais-vidnt.com","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
- 
+"name": "Astro SuperSport 4",
+"image": "https://moviektu.com/news/logotv/sportus/my-asp4.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/astro4/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "Sport tv1",
+"image": "https://imgur.com/YWic36u.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/sporttv1/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "Sport tv2",
+"image": "https://i.imgur.com/0jSR6yG.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/sporttv2/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "Sport tv3",
+"image": "https://i.imgur.com/6Dw3GUx.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/sporttv3/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "Sport tv4",
+"image": "https://imgur.com/mJlbVfW.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/sporttv4/playlist.m3u8",
+"referer": "https://99dooball.com",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": "MUTV",
+"image": "https://dookeela.live/uploads/1665106261.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/mutv/playlist.m3u8",
+"referer": "https://dookeela.live/",
+"userAgent": "ExoPlayerLib/2.8.4"
+},
+{
+"name": " Astro Arena",
+"image": "https://dookeela.live//uploads/1697812603.png",
+"url": "https://dookeela.live/live-tv/astroarena",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Astro Arena 2",
+"image": "https://dookeela.live//uploads/1719768111.png",
+"url": "https://dookeela.live/live-tv/astroarena2",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "Astro Arena Bola",
+"image": "https://dookeela.live/uploads/1700012376.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/astroarenabola/playlist.m3u8",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "Astro Arena Bola2",
+"image": "https://dookeela.live/uploads/1698351468.png",
+"url": "https://cdn2.aws-live-streaming.com/lsmscore/astroarenabola2/playlist.m3u8",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": "PrimaSport1",
+"image": "https://dookeela.live/uploads/1694689157.png",
+"url": "https://dookeela.live/live-tv/primasport1",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "PrimaSport2",
+"image": "https://dookeela.live/uploads/1695249914.png",
+"url": "https://dookeela.live/live-tv/primasport2",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "PrimaSport3",
+"image": "https://dookeela.live/uploads/1695604346.png",
+"url": "https://dookeela.live/live-tv/primasport3",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "PrimaSport4",
+"image": "https://dookeela.live/uploads/1695398839.png",
+"url": "https://dookeela.live/live-tv/primasport4",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "PrimaSport5",
+"image": "https://dookeela.live/uploads/1696610104.png",
+"url": "https://dookeela.live/live-tv/primasport5",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": " BT Sport 1 UK",
+"image": "https://dookeela.live//uploads/1664577275.png",
+"url": "https://dookeela.live/live-tv/btsport1",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " BT Sport 2 UK",
+"image": "https://dookeela.live//uploads/1664577284.png",
+"url": "https://dookeela.live/live-tv/btsport2",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " BT Sport 3 UK",
+"image": "https://dookeela.live//uploads/1664577293.png",
+"url": "https://dookeela.live/live-tv/btsport3",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " BT Sport 4 UK",
+"image": "https://dookeela.live//uploads/1667415893.png",
+"url": "https://dookeela.live/live-tv/btsport4",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " DAZN 1 | Spain",
+"image": "https://dookeela.live//uploads/1715571844.png",
+"url": "https://dookeela.live/live-tv/dazn1es",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " DAZN 1 Germany",
+"image": "https://dookeela.live//uploads/1679423986.png",
+"url": "https://dookeela.live/live-tv/dazn1",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " DAZN 2 | Spain",
+"image": "https://dookeela.live//uploads/1715571857.png",
+"url": "https://dookeela.live/live-tv/dazn2es",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " DAZN 2 Germany",
+"image": "https://dookeela.live//uploads/1694286704.png",
+"url": "https://dookeela.live/live-tv/dazn2",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " DAZN F1 (Spain)",
+"image": "https://dookeela.live//uploads/1696279327.png",
+"url": "https://dookeela.live/live-tv/daznf1",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " DAZN Laliga",
+"image": "https://dookeela.live//uploads/1711566401.png",
+"url": "https://dookeela.live/live-tv/dazn-laliga",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Eleven Sports 1 Portugal",
+"image": "https://dookeela.live//uploads/1664126262.png",
+"url": "https://dookeela.live/live-tv/elevensports1pt",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Eleven Sports 2 Portugal",
+"image": "https://dookeela.live//uploads/1664848123.png",
+"url": "https://dookeela.live/live-tv/elevensports2pt",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Eleven Sports 3 Portugal",
+"image": "https://dookeela.live//uploads/1664848193.png",
+"url": "https://dookeela.live/live-tv/elevensports3pt",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Eleven Sports 4 Portugal",
+"image": "https://dookeela.live//uploads/1679421134.png",
+"url": "https://dookeela.live/live-tv/elevensports4pt",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Eleven Sports 5 Portugal",
+"image": "https://dookeela.live//uploads/1679421151.png",
+"url": "https://dookeela.live/live-tv/elevensports5pt",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Eleven Sports 6 Portugal",
+"image": "https://dookeela.live//uploads/1679421165.png",
+"url": "https://dookeela.live/live-tv/elevensports6pt",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Eurosport 1 | Spain",
+"image": "https://dookeela.live//uploads/1711566124.png",
+"url": "https://dookeela.live/live-tv/eurosport1es",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " Eurosport 2 | Spain",
+"image": "https://dookeela.live//uploads/1711566136.png",
+"url": "https://dookeela.live/live-tv/eurosport2es",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " PREMIER SPORTS 1 | UK",
+"image": "https://dookeela.live//uploads/1715565710.png",
+"url": "https://dookeela.live/live-tv/premiersports1uk",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+},
+{
+"name": " PREMIER SPORTS 2 | UK",
+"image": "https://dookeela.live//uploads/1715565724.png",
+"url": "https://dookeela.live/live-tv/premiersports2uk",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+
+},
 
 
- 
- ]
+]
 }
